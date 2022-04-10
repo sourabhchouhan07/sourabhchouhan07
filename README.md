@@ -62,7 +62,22 @@ Hi, I'm Abhishek Naidu, a Full Stack Developer 🚀 from India, currently, I'm a
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
+<a href="https://github.com/KnlnKS/leetcode-stats">
+  <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=KnlnKS" width="400"/>
+</a>
 
+
+<p align="center">
+  <i>Let's connect and chat! Find me on the web...</i>
+  
+   [![Website Badge](https://img.shields.io/badge/-anushkaverma.com-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://verma-anushka.github.io/anushkaverma/)](https://verma-anushka.github.io/anushkaverma/) 
+   [![Linkedin Badge](https://img.shields.io/badge/-anushkaverma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anushkaverma/)](https://www.linkedin.com/in/anushkaverma/) 
+   [![Medium Badge](https://img.shields.io/badge/-@v.anushka786-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@v.anushka786)](https://medium.com/@v.anushka786) 
+   [![Gmail Badge](https://img.shields.io/badge/-v.anushka786-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:v.anushka786@gmail.com)](mailto:v.anushka786@gmail.com)
+   [![Instagram Badge](https://img.shields.io/badge/-@v_anushkaa-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/v_anushkaa/)](https://instagram.com/v_anushkaa) 
+   [![Facebook Badge](https://img.shields.io/badge/-verma_anushka-036be4?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100022118525351)](https://www.facebook.com/profile.php?id=100022118525351)
+   [![GeeksforGeeks Badge](https://img.shields.io/badge/-verma_anushka-1c6340?style=flat&logo=GeeksforGeeks&logoColor=white&link=https://auth.geeksforgeeks.org/user/verma_anushka/articles)](https://auth.geeksforgeeks.org/user/verma_anushka/articles)
+  
 ![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&hide_border=true)
 
 ⭐️ From [abhisheknaiidu](https://github.com/abhisheknaiidu)
