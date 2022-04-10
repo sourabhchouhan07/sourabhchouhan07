@@ -34,7 +34,9 @@ Hi, I'm Sourabh chouhan , a Android developer 🚀 from India, currently, I'm pu
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
-<a href="https://github.com/KnlnKS/leetcode-stats">
+
+[LeeTcode Profile]
+<a href="https://github.com/sourabhchouhan801/leetcode-stats">
   <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=sourabhchouhan801" width="400"/>
 </a>
 
