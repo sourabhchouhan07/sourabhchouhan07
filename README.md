@@ -13,7 +13,7 @@ Hi, I'm Sourabh chouhan , a Android developer 🚀 from India, currently, I'm pu
 
 - 👨🏽‍💻 I’m currently working on .........
 - 🌱 I’m currently learning Android development and DSA.
-- 🤔 I’m looking for help with Data Structures and Algorithms 😭;
+- 🤔 I’m looking for help with Data Structures and Algorithms ;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: >>>>>>>>>>>>
 - 📫 How to reach me: sourabhchouhan803@gmail.com
