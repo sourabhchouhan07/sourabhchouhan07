@@ -20,14 +20,14 @@ Hi, I'm Sourabh chouhan , a Android developer 🚀 from India, currently, I'm pu
 
 
 **Languages and Tools:**
-c++
-java
-kotlin
-html
-css
-android studio
-Android devlopment
-google firebase
+- c++
+- java
+- kotlin
+- html
+- css
+- android studio
+- Android devlopment
+- google firebase
 
 
 
