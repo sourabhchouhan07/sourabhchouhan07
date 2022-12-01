@@ -17,7 +17,6 @@ Hi, I'm Sourabh chouhan , a Android developer 🚀 from India, currently, I'm pu
 - 🌱 I’m currently learning Android development and DSA.
 - 🤔 I’m looking for help with Data Structures and Algorithms ;
 - 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: >>>>>>>>>>>>
 - 📫 How to reach me: sourabhchouhan803@gmail.com
 
 
@@ -36,7 +35,7 @@ Hi, I'm Sourabh chouhan , a Android developer 🚀 from India, currently, I'm pu
 ### [LeeTcode Profile]
 
 
-<a href="https://leetcode.com/sourabhchouhan801/">
+<a href="https://leetcode.com/100_rabh_/">
   <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=sourabhchouhan801" width="400"/>
 </a>
 
